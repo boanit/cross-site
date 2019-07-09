@@ -13,7 +13,7 @@ const projects = [
 		description:
 			'chatbot with google product',
 		type: 'Cloud',
-		img: 'https://boanit.kr/assets/image/contact.jpg',
+		img: 'https://boanit.github.io/assets/image/contact.jpg',
 		url: 'https://pf.kakao.com/_xlwrJC'
 	},
 	{
