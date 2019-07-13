@@ -20,9 +20,9 @@ const projects = [
 		id: 2,
 		name: 'Guide',
 		type: 'Mobile',
-		description: 'Guide production',
-		img: 'https://boanit.github.io/assets/img/guide.png',
-		url: 'https://boanit.github.io/pen/jstl-xss-prevention'
+		description: 'Fintech Support',
+		img: 'https://boanit.github.io/assets/img/fin.png',
+		url: 'http://fintechcenter.or.kr/kor/enterprise/?idx=223'
 	},
 	{
 		id: 3,
