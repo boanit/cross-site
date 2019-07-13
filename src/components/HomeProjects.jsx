@@ -18,7 +18,7 @@ const projects = [
 	},
 	{
 		id: 2,
-		name: 'Guide',
+		name: 'Security Consulting',
 		type: 'Mobile',
 		description: 'Fintech Support',
 		img: 'https://boanit.github.io/assets/img/fin.png',
