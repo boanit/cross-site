@@ -14,7 +14,7 @@ function Footer() {
 	return (
 		<footer className="footer">
 			<h2 className="footer__title">Contact</h2>
-			<p className="footer__subtitle">(06612) 032, 441, Gangnam-daero, Seocho-gu, Seoul, 06612, Rep. of KOREA</p>
+			<p className="footer__subtitle">(06612) 32, 9th Floor, 441, Gangnam-daero, Seocho-gu, Seoul, 06612, Rep. of KOREA</p>
 			<p className="footer__subtitle">02-532-0236 / boanit@boanit.kr</p>
 			<FooterForm />
 
