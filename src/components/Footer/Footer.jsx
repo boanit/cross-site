@@ -15,7 +15,7 @@ function Footer() {
 		<footer className="footer">
 			<h2 className="footer__title">Contact</h2>
 			<p className="footer__subtitle">(06612) 32, 9th Floor, 441, Gangnam-daero, Seocho-gu, Seoul, 06612, Rep. of KOREA</p>
-			<p className="footer__subtitle">02-532-0236 / boanit@boanit.kr</p>
+			<p className="footer__subtitle">032-569-0236 / boanit@boanit.kr</p>
 			<FooterForm />
 
 			<div className="footer__base">
@@ -25,7 +25,7 @@ function Footer() {
 					title="Click to scroll to the top">
 					<i className="ti-angle-double-up" />
 				</button>
-				<p className="copyright">© 2019 Boanit Co.,Ltd. All rights reserved.
+				<p className="copyright">© 2020 Boanit Co.,Ltd. All rights reserved.
 				</p>
 			</div>
 		</footer>
