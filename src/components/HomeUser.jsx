@@ -35,7 +35,7 @@ export default function HomeUser() {
 					<div className="home-user-image column">
 						<div className="home-user-image__img">
 							<Image
-								alt="Kenneth Kwakye-Gyamfi"
+								alt="boanit"
 								fluid={portrait.childImageSharp.fluid}
 							/>
 						</div>
