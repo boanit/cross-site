@@ -43,12 +43,12 @@ export default function HomeUser() {
 						<p className="home-user-image__desc">boanit is a company that specializes in information security.
 						</p>
 
-						<div className="resume-container">
+						<!--div className="resume-container">
 							<a href="#" download>
 								<i className="ti-download" />
 								<span></span>
 							</a>
-						</div>
+						</div-->
 
 						<SocialLinks className="home-user-image__socials" />
 					</div>
