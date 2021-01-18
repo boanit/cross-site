@@ -14,7 +14,7 @@ const projects = [
 			'chatbot with google product',
 		type: 'Cloud',
 		img: 'https://boanit.github.io/assets/image/contact.jpg',
-		url: 'https://pf.kakao.com/_xlwrJC'
+		url: '#'
 	},
 	{
 		id: 2,
@@ -22,7 +22,7 @@ const projects = [
 		type: 'Mobile',
 		description: 'Fintech Support',
 		img: 'https://boanit.github.io/assets/img/fin.png',
-		url: 'http://fintechcenter.or.kr/kor/enterprise/?idx=223'
+		url: '#'
 	},
 	{
 		id: 3,
