@@ -44,9 +44,9 @@ export default function HomeUser() {
 						</p>
 
 						<div className="resume-container">
-							<a href="/boanit.pdf" download>
+							<a href="#" download>
 								<i className="ti-download" />
-								<span>Download ppt</span>
+								<span></span>
 							</a>
 						</div>
 
