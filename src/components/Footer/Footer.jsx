@@ -8,8 +8,8 @@ function Footer() {
 	return (
 		<footer className="footer">
 			<h2 className="footer__title">Contact</h2>
-			<p className="footer__subtitle">10, 3rd Floor, 8, Mapo-daero 4ra-gil, Mapo-gu, Seoul, 04178, Rep. of KOREA</p>
-			<p className="footer__subtitle">032-569-0236 / boanit@boanit.kr</p>
+			<p className="footer__subtitle">1704, 35, Mallijae-ro, Mapo-gu, Seoul, 04209, Rep. of KOREA</p>
+			<p className="footer__subtitle">boanit@boanit.kr</p>
 			<FooterForm />
 
 			<div className="footer__base">
@@ -19,7 +19,7 @@ function Footer() {
 					title="Click to scroll to the top">
 					<i className="ti-angle-double-up" />
 				</button>
-				<p className="copyright">© 2020 Boanit Co.,Ltd. All rights reserved.
+				<p className="copyright">© 2022 Boanit Co.,Ltd. All rights reserved.
 				</p>
 			</div>
 		</footer>
