@@ -10,17 +10,17 @@ import { bool as booleanProp } from 'prop-types';
 import HomeUserProgress from './HomeUserProgress';
 
 const ACHIEVEMENTS = [
-	{ title: 'Web App consulting', value: 96 },
+	{ title: 'Web App consulting', value: 100 },
 	{ title: 'Mobile App consulting', value: 100 },
-	{ title: 'DBMS consulting', value: 87.5 },
-	{ title: 'Server consulting', value: 97.5 },
-	{ title: 'Network consulting', value: 90 },
-	{ title: 'WEB/WAS consulting', value: 90 },
+	{ title: 'DBMS consulting', value: 97.5 },
+	{ title: 'Server consulting', value: 100 },
+	{ title: 'Network consulting', value: 100 },
+	{ title: 'WEB/WAS consulting', value: 100 },
 	{ title: 'API', value: 100 },
-	{ title: 'IoT', value: 55 },
-	{ title: 'Cloud', value: 50 },
-	{ title: 'AI', value: 45 },
-	{ title: 'Bigdata', value: 50 }
+	{ title: 'IoT', value: 75 },
+	{ title: 'Cloud', value: 80 },
+	{ title: 'AI', value: 95 },
+	{ title: 'Bigdata', value: 90 }
 ];
 
 export default function HomeUserAchievements({ isVisible }) {
