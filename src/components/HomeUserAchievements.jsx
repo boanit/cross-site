@@ -17,7 +17,7 @@ const ACHIEVEMENTS = [
 	{ title: 'Network consulting', value: 100 },
 	{ title: 'WEB/WAS consulting', value: 100 },
 	{ title: 'API', value: 100 },
-	{ title: 'IoT', value: 75 },
+	{ title: 'IoT', value: 85 },
 	{ title: 'Cloud', value: 80 },
 	{ title: 'AI', value: 95 },
 	{ title: 'Bigdata', value: 90 }
