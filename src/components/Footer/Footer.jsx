@@ -19,7 +19,7 @@ function Footer() {
 					title="Click to scroll to the top">
 					<i className="ti-angle-double-up" />
 				</button>
-				<p className="copyright">© 2022 Boanit Co.,Ltd. All rights reserved.
+				<p className="copyright">© 2023 Boanit Co.,Ltd. All rights reserved.
 				</p>
 			</div>
 		</footer>
